@@ -1,7 +1,8 @@
 <h2 align="center">Hi there 👋, my name is Arjamand Ali</h2>
 <h3 align="center", padding-top=-1000>"Turning Coffee into Code, One Cup at a Time" ☕👩‍💻</h3>
 
-I love diving into the ever-changing tech landscape, exploring new programming languages and frameworks. Open-source contributions are close to my heart, and I enjoy collaborating with diverse teams. When I'm not coding, you can find me lost in a good book, embracing nature, or savoring a cup of coffee with friends. Let's connect and embark on a coding adventure together! 😊🚀 
+I love diving into the ever-changing tech landscape, exploring new programming languages and frameworks. Open-source contributions are close to my heart, and I enjoy collaborating with diverse teams. When I'm not coding, you can find me lost in a good book, embracing nature, or savoring a cup of coffee with friends. Let's connect and embark on a coding adventure together! 😊🚀
+
 Skills: Python Developer | Scripting | Automation | Web Scraping | GUI Desktop Apps
 
 - 🔭 I’m currently working on Leetcode, sharpening my skills. 
