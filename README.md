@@ -1,4 +1,4 @@
-<h2 align="center">Hi there 👋, my name is Arjamand Ali</h2>
+<h2 align="center">Hi there 👋, I am Arjamand Ali</h2>
 <h3 align="center", padding-top=-1000>"Turning Coffee into Code, One Cup at a Time" ☕👩‍💻</h3>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=arjamand"></a>
@@ -15,6 +15,16 @@ Skills: Python Developer | Scripting | Automation | Web Scraping | GUI Desktop A
 - 🤔 I’m looking for help with  expanding my knowledge and honing my coding skills. 
 - 💬 Ask me about tech, coding, or any curious topic.
 - 📫 How to reach me: Feel free to drop me an email at arjamandali497@protonmail.com .
+
+  <h2 align="center"></h2>
+  <h3 align="center", padding-top=-1000>Certifications</h3>
+
+<h4 align="center">Intoduction to Cyber Security - Cisco Networking Academy - <a href="https://github.com/arjamand/arjamand/blob/main/certifications/Introduction_to_Cybersecurity_Badge20230724-28-wtv3mh.pdf">Verify</a></h4>
+
+<h4 align="center">PCAP - Programming Essentials in Python - Cisco Networking Academy - <a href="https://github.com/arjamand/arjamand/blob/main/certifications/ArjamandAli-VU-ITU-DTC-PCAP--certificate.pdf">Verify</a></h4>
+
+
+  <h2 align="center"></h2>
 
 
 <p align="center">
