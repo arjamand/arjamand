@@ -15,7 +15,7 @@ Skills: Python Developer | Scripting | Automation | Web Scraping | GUI Desktop A
   <a href="https://github.com/arjamand">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="github" height="40">
   </a>
-  <a href="https://www.linkedin.com/in/arjamand-ali-420b03261//">
+  <a href="https://www.linkedin.com/in/arjamand-ali-420b03261/">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="40">
   </a>
   <a href="https://www.facebook.com/profile.php?id=100038481345335">
