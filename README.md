@@ -19,9 +19,9 @@ Skills: Python Developer | Scripting | Automation | Web Scraping | GUI Desktop A
 <h2 align="center"></h2>
   <h3 align="center", padding-top=-1000>Certifications</h3>
 
-<h4 align="center">Intoduction to Cyber Security - Cisco Networking Academy - <a href="https://github.com/arjamand/arjamand/blob/main/certifications/Introduction_to_Cybersecurity_Badge20230724-28-wtv3mh.pdf">Verify</a></h4>
+<h4 align="center">Intoduction to Cyber Security - Cisco Networking Academy - <a href="https://www.credly.com/badges/47345cad-b901-4cc1-a45d-60b2f7e7a2b3/linked_in_profile">Verify</a></h4>
 
-<h4 align="center">PCAP - Programming Essentials in Python - Cisco Networking Academy - <a href="https://github.com/arjamand/arjamand/blob/main/certificationsPython_Essentials_2_Badge20230728-28-rf9b43">Verify</a></h4>
+<h4 align="center">PCAP - Programming Essentials in Python - Cisco Networking Academy - <a href="https://www.credly.com/badges/4ff6f91e-5290-4784-a196-29bb563a6a5c/public_url">Verify</a></h4>
 
 
   <h2 align="center"></h2>
