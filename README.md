@@ -16,13 +16,6 @@ Skills: Python Developer | Scripting | Automation | Web Scraping | GUI Desktop A
 - 💬 Ask me about tech, coding, or any curious topic.
 - 📫 How to reach me: Feel free to drop me an email at arjamandali497@protonmail.com .
 
-<h2 align="center"></h2>
-  <h3 align="center", padding-top=-1000>Certifications</h3>
-
-<h4 align="center">Intoduction to Cyber Security - Cisco Networking Academy - <a href="https://www.credly.com/badges/47345cad-b901-4cc1-a45d-60b2f7e7a2b3/linked_in_profile">Verify</a></h4>
-
-<h4 align="center">PCAP - Programming Essentials in Python - Cisco Networking Academy - <a href="https://www.credly.com/badges/4ff6f91e-5290-4784-a196-29bb563a6a5c/public_url">Verify</a></h4>
-
 
   <h2 align="center"></h2>
 
