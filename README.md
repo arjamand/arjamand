@@ -14,7 +14,7 @@ Skills: Python Developer | Scripting | Automation | Web Scraping | GUI Desktop A
 - 👯 I’m looking to collaborate on open-source projects. 
 - 🤔 I’m looking for help with  expanding my knowledge and honing my coding skills. 
 - 💬 Ask me about tech, coding, or any curious topic.
-- 📫 How to reach me: Feel free to drop me an email at arjamandali497@protonmail.com .
+- 📫 How to reach me: Feel free to drop me an email at arjamandali497@gmail.com .
 
 
   <h2 align="center"></h2>
