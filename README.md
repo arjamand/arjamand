@@ -9,7 +9,6 @@ I love diving into the ever-changing tech landscape, exploring new programming l
 
 Skills: Python Developer | Scripting | Automation | Web Scraping | GUI Desktop Apps
 
-- 🔭 I’m currently working on Leetcode, sharpening my skills. 
 - 🌱 I’m currently learning Python and C++ . 
 - 👯 I’m looking to collaborate on open-source projects. 
 - 🤔 I’m looking for help with  expanding my knowledge and honing my coding skills. 
