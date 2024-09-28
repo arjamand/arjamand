@@ -5,13 +5,12 @@
 </p>
 
 
-I love diving into the ever-changing tech landscape, exploring new programming languages and frameworks. Open-source contributions are close to my heart, and I enjoy collaborating with diverse teams. When I'm not coding, you can find me lost in a good book, embracing nature, or savoring a cup of coffee with friends. Let's connect and embark on a coding adventure together! 😊🚀
+I love exploring the ever-changing world of tech, diving into new programming languages and tools. I have decent experience with Python and enjoy learning emerging tools to become a better developer. Open-source projects are important to me, and I enjoy working with different teams. When I'm not coding, I like getting lost in a good book, enjoying nature, or having coffee with friends. Let's connect and start a coding adventure together! 😊🚀
 
-Skills: Python Developer | Scripting | Automation | Web Scraping | GUI Desktop Apps
+**Skills:** Scripting | Automation | Web Scraping | GUI Desktop Apps | Artificial Intelligence (AI) | Machine Learning | Deep Learning | Neural Networks | Data Science | Data Visualization | Natural Language Processing (NLP) | Data Mining | Data Analysis | Model Training | AI Frameworks (e.g., TensorFlow, PyTorch)
 
-- 🌱 I’m currently learning Python and C++ . 
 - 👯 I’m looking to collaborate on open-source projects. 
-- 🤔 I’m looking for help with  expanding my knowledge and honing my coding skills. 
+- 🤔 I'm  eager to learn and expand my skills in AI, DataScience and Machine Learning.
 - 💬 Ask me about tech, coding, or any curious topic.
 - 📫 How to reach me: Feel free to drop me an email at arjamandali497@gmail.com .
 
