@@ -9,10 +9,7 @@ I love exploring the ever-changing world of tech, diving into new programming la
 
 **Skills:** Scripting | Automation | Web Scraping | GUI Desktop Apps | Artificial Intelligence (AI) | Machine Learning | Deep Learning | Neural Networks | Data Science | Data Visualization | Natural Language Processing (NLP) | Data Mining | Data Analysis | Model Training | AI Frameworks (e.g., TensorFlow, PyTorch)
 
-- 👯 I’m looking to collaborate on open-source projects. 
-- 🤔 I'm  eager to learn and expand my skills in AI, DataScience and Machine Learning.
-- 💬 Ask me about tech, coding, or any curious topic.
-- 📫 How to reach me: Feel free to drop me an email at arjamandali497@gmail.com .
+📫 How to reach me: Feel free to drop me an email at arjamandali497@gmail.com .
 
 
   <h2 align="center"></h2>
